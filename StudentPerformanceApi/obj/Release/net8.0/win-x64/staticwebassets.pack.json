@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/home/jell/Diplom_Timchenko/StudentPerformanceApi/wwwroot/assets/index-B9yKnwT3.js",
+      "PackagePath": "staticwebassets/assets/index-B9yKnwT3.js"
+    },
+    {
+      "Id": "/home/jell/Diplom_Timchenko/StudentPerformanceApi/wwwroot/assets/index-HWkI1Iai.css",
+      "PackagePath": "staticwebassets/assets/index-HWkI1Iai.css"
+    },
+    {
+      "Id": "/home/jell/Diplom_Timchenko/StudentPerformanceApi/wwwroot/favicon.svg",
+      "PackagePath": "staticwebassets/favicon.svg"
+    },
+    {
+      "Id": "/home/jell/Diplom_Timchenko/StudentPerformanceApi/wwwroot/icons.svg",
+      "PackagePath": "staticwebassets/icons.svg"
+    },
+    {
+      "Id": "/home/jell/Diplom_Timchenko/StudentPerformanceApi/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Release/net8.0/win-x64/staticwebassets/msbuild.StudentPerformanceApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/win-x64/staticwebassets/msbuild.build.StudentPerformanceApi.props",
+      "PackagePath": "build\\StudentPerformanceApi.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/win-x64/staticwebassets/msbuild.buildMultiTargeting.StudentPerformanceApi.props",
+      "PackagePath": "buildMultiTargeting\\StudentPerformanceApi.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/win-x64/staticwebassets/msbuild.buildTransitive.StudentPerformanceApi.props",
+      "PackagePath": "buildTransitive\\StudentPerformanceApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
